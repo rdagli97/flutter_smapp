@@ -1,1 +1,1 @@
-laravel side : https://github.com/rdagli97/laravel_smapp
+flutter side : https://github.com/rdagli97/smapp_flutter
